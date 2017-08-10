@@ -1,0 +1,1 @@
+set DEBUG=contactManagement:* & npm start
